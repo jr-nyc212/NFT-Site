@@ -11,6 +11,11 @@ header {
 
 }
 
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
+
 h1 {
     font-size: 2.25rem;
     color: whitesmoke;
