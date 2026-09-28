@@ -30,9 +30,18 @@ h3 {
 
 }
 
+a {
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+a:hover, a:active {
+    color: #d4b44c;
+}
+
 section {
     padding: 45px 0;
-}   
+}
 
 .product-img {
     max-width: 100%;
