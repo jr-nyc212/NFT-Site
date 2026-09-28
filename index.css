@@ -24,3 +24,12 @@ h3 {
     margin: 0;
 
 }
+
+section {
+    padding: 45px 0;
+}   
+
+.product-img {
+    max-width: 100%;
+    height: auto;
+}
