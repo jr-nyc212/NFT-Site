@@ -6,6 +6,10 @@ body {
     color: #2b283a;
 }
 
+p {
+    line-height: 1.4375rem;
+}
+
 /* Typography */
 
 h1, h2, h3, body {
