@@ -61,9 +61,19 @@ section {
     margin: 0 auto;
 }
 
+/* Images */
+
 .product-img {
     max-width: 100%;
     height: auto;
 }
 
+.container-imgs {
+    display: flex;
+    justify-content: space-between;
+}
 
+.crypto-img {
+    width: 300px;
+    border-radius: 4.6px;
+}
