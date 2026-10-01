@@ -6,11 +6,11 @@ body {
     color: #2b283a;
 }
 
+/* Typography */
+
 p {
     line-height: 1.4375rem;
 }
-
-/* Typography */
 
 h1, h2, h3, body {
     margin: 0;
@@ -42,6 +42,36 @@ a {
 
 a:hover, a:active {
     color: #d4b44c;
+}
+
+/* Buttons */
+
+.btn {
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.btn-buy {
+    background-color: #5f29a3;
+    color: whitesmoke;
+}
+
+.btn-about {
+    background-color: whitesmoke;
+    color: #5f29a3;
+}
+
+.btn-secondary {
+    background-color: #f0e0ff;
+    color: #5f29a3;
+}
+
+.btn:hover, .btn:active {
+    background-color: #f3e885;
+    color: #2b283a;
 }
 
 /* Layout */
