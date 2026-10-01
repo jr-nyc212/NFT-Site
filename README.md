@@ -6,6 +6,8 @@ a pile of unstyled `<div>` tags and an empty stylesheet. Every lesson was
 published as its own issue, branch and pull request, so the commit history is
 a step-by-step log of the page taking shape.
 
+**Live site:** https://foolsgold-nft.netlify.app/
+
 ## What was built
 
 - **Semantic structure.** Replaced the starter's `<div>` wrappers with
